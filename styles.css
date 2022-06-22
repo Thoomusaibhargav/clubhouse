@@ -1,0 +1,92 @@
+#title{
+    font-family:"Montserrat-black";
+    color: #fff;
+}
+h1{
+    font-family: "Montserrat-bold";
+    color: #fff;
+    font-size: 2.5rem;
+    line-height: 1.3;
+}
+h2{
+    font-family:"Montserrat-solid" ;
+    font-size: 2rem;
+}
+p{
+    font-family: "Montserrat-black" ;
+    font-size: 1.3rem;
+}
+/* navbar */
+.container-fluid{
+background-color: #1e7fa6;
+padding: 3% 25%;
+}
+/* navigation bar */
+.navbar{ 
+    padding-bottom: 1.5rem;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0% 3%;
+}
+.nav-link{
+font-family: "montserrat-light";
+font-size: 1.2rem;
+}
+.title-image{
+    width: 60%;
+    position: relative;
+    left: 150px;
+}
+/* features */
+#features{
+    padding: 3% 15%;
+    text-align: center;
+
+}
+.features-div{
+    padding: 10% 0%;
+}
+.fas{
+    color: aqua;
+  margin-bottom: 4px;
+}
+.fas:hover{
+    color:#1e7fa6 ;
+}
+/* warehouse sliding */
+#warehouse-slide{
+    background-color: #1e7fa6;
+     text-align: center;
+}
+.carousel-item{
+    padding: 3% 15%;
+}
+/* mediapoints */
+@media (max-width: 1000px) {
+.title-image{
+        width:60%;
+        position: static;
+      }
+.slide-image{
+    width: 70%;
+}
+h1{
+    /* text-align: center; */
+}
+
+    
+}
+/* contact */
+#contact{
+    padding: 3% 15%;
+}
+.contact-card{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}

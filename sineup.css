@@ -1,0 +1,30 @@
+body{
+    background-color: #1e7fa6;
+}
+#sineup{
+    background-color: #1e7fa6;
+}
+.sineup-card{
+    margin:10% auto;
+    width: 60%;
+} 
+.labels{
+    margin: 1% 0%;
+}
+.submit-button{
+    margin-top: 3%;
+    text-align: center;
+}
+    /* navigation bar */
+    .navbar-brand{
+        font-family: "ubuntu";
+        font-size: 3.5rem;
+        font-weight: bold;
+    }
+    .nav-link{
+    font-family: "montserrat-light";
+    font-size: 1.2rem;
+    }
+    .container-fluid{
+        padding: 2% 10%;
+    }

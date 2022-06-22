@@ -1,0 +1,39 @@
+.dashboard-link{
+ padding-top: 10%;
+}
+.dashboard-card{
+    padding: 6%;
+    text-align: center;
+
+
+}
+.card-text{
+
+    font-family:"montserrat-bold" ;
+    color: #fff;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+.navbar{ 
+    background-color: #1e7fa6;
+
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0% 1%;
+}
+
+.nav-link{
+font-family: "montserrat-light";
+}
+.container-fluid{
+    background-color: #1e7fa6;
+    padding: 0% 10%;
+}
+#middle{
+    padding: 0% 10%;
+
+}

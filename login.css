@@ -1,0 +1,38 @@
+body{
+    background-color: #1e7fa6;
+}
+br{
+    height: 2rem;
+}
+.login-card{
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    width: 50%;
+    background-color:#fff;
+}
+.form-body{
+    line-height: 2;
+}
+.footer-btn{
+    margin: 0% 3%;
+}
+.container-fluid{
+    background-color: #1e7fa6;
+    padding: 3% 15%;
+    }
+.navbar{ 
+    padding-bottom: 1.5rem;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0% 3%;
+}
+.nav-link{
+font-family: "montserrat-light";
+font-size: 1.2rem;
+}
